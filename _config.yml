@@ -1,8 +1,4 @@
-# Dependencies
-highlighter:      pygments
-
-
-# Setup
+# Site settings
 title:            Philosofia
 SEOTitle:         Philosofia's Maze
 tagline:          
@@ -10,14 +6,11 @@ description:      'A Wanderer'
 url:              
 baseurl:          /
 
-author:
-  name:           
-  url:            
+# SNS settings
 
+
+# Build settings
 paginate:         5
 
-# Custom vars
-version:          2.1.0
 
-github:
-  repo:           https://philosofia.github.io/
+
