@@ -5,14 +5,15 @@ title:            Philosofia
 SEOTitle:         Philosofia's Maze
 tagline:          i am tagline
 description:      'A Wanderer'
-url:              
+url:              https://philosofia.github.io/
 baseurl:          /
+permalink:        pretty
+
 
 # SNS settings
 
-
 # Build settings
-paginate:         10
+paginate:         5
 
 
 
