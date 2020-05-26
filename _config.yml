@@ -2,12 +2,10 @@
 
 # Site settings
 title:            Philosofia
-SEOTitle:         Philosofia's Maze
-tagline:          A Wanderer 
+tagline:          'A Wanderer' 
 description:      'I love Brain Dumping'
 url:              https://philosofia.github.io/
-baseurl:          ""
-permalink:        pretty
+baseurl:          ''
 paginate:         5
 
 plugins:
