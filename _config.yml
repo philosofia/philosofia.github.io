@@ -14,7 +14,3 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-
-sass:
-  sass_dir: _sass
-  style: :compressed
