@@ -6,14 +6,15 @@ SEOTitle:         Philosofia's Maze
 tagline:          A Wanderer 
 description:      'I love Brain Dumping'
 url:              https://philosofia.github.io/
-baseurl:          /
+baseurl:          ""
 permalink:        pretty
-
-
-# SNS settings
-
-# Build settings
 paginate:         5
 
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-
+sass:
+  sass_dir: _sass
+  style: :compressed
