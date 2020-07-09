@@ -3,7 +3,7 @@
 # Site settings
 title:            Philosofia
 tagline:          'A Wanderer' 
-description:      'I love Brain Dumping'
+description:      'An important function of documentation is the elimination of errors.'
 url:              https://philosofia.github.io/
 baseurl:          ''
 paginate:         5
