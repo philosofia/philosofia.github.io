@@ -3,7 +3,7 @@
 # Site settings
 title:            Sophia Xu
 tagline:          'A Wanderer' 
-description:      '  Our world is the outcome of what we pay attention to, and dedicating it to something profound and deep, will create a world rich in meaning and importance.'
+description:      'Our world is the outcome of what we pay attention to, and dedicating it to something profound and deep, will create a world rich in meaning and importance.'
 url:              https://philosofia.github.io/
 baseurl:          ''
 paginate:         5
