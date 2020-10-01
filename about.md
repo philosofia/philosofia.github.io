@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-<p class="message"
-Our world is the outcome of what we pay attention to, and dedicating it to something profound and deep, will create a world rich in meaning and importance.
+
+<p class="message">
+  Our world is the outcome of what we pay attention to, and dedicating it to something profound and deep, will create a world rich in meaning and importance.
 </p>
 
 ## Hi there, I am Sophia Xu. 
