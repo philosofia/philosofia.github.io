@@ -17,6 +17,7 @@ I know 140-character tweeting is all the rage, but I still think a way to integr
 
 * Currently study BA Digital Culture at King's College London.
 * Interested in intersection of Social Science, Humanities and Data Science.
+* More specifically in data capitalism, web tracking technology (industry) and network analysis.
 * ADD Brainer.
 * Non-linearity reader. Don't ever try to ask me how many books I've read.
 * More a social media observer than user. 
@@ -37,5 +38,7 @@ I know 140-character tweeting is all the rage, but I still think a way to integr
 * Student by day, singer by night (I mean, in my shower).
 * Always value scientific intergrity.
 * Comedy is my favourite genre.
+* Possess More failures than successes, unsuprisingly. 
+* Hate PDF file.
 
 
