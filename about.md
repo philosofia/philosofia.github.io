@@ -13,7 +13,7 @@ I know 140-character tweeting is all the rage, but I still think a way to integr
 </p>
 
 
-##### Who I am?:
+### Something about me:
 
 * Currently study BA Digital Culture at King's College London.
 * Interested in intersection of Social Science, Humanities and Data Science.
