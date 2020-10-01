@@ -5,7 +5,7 @@ title: About
 
 
 <p class="message">
-  An important function of documentation is the elimination of errors.
+  💡An important function of documentation is the elimination of errors.
 </p>
 
 
