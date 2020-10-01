@@ -5,7 +5,7 @@ title:            Sophia Xu
 tagline:          'A Wanderer' 
 description:      'An important function of documentation is the elimination of errors.'
 url:              https://philosofia.github.io/
-baseurl:          ''
+baseurl:          'https://philosofia.github.io/'
 paginate:         5
 
 plugins:
