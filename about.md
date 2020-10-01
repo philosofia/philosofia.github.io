@@ -35,5 +35,6 @@ I know 140-character tweeting is all the rage, but I still think a way to integr
 * Beyasian.
 * Love reading K-pop Vocalists' Vocal Analyses.
 * Student by day, singer by night (I mean, in my shower).
+* Always value scientific intergrity.
 
 
