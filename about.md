@@ -17,5 +17,10 @@ I know 140-character tweeting is all the rage, but I still think a way to organi
 
 * Currently study BA Digital Culture at King's College London.
 * Interested in intersection of Social Science, Humanities and Data Science.
-* An ADD Brainer.
-* Study 
+* ADD Brainer.
+* Non-linearity reader. Don't ever try to ask me how many books I've read.
+* More a social media observer than user. 
+* Multilingual, yet sometimes encountering language switch failures.
+* Co-existence with simplicity and complexity.
+* Challenge ideas, never people.
+* Cook the most delicious braised pork belly in this world. (actually it is debatable)
