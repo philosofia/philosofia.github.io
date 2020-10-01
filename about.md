@@ -4,7 +4,7 @@ title: About Me
 ---
 
 ### Hi there, I am Sophia.
-I know 140-character tweeting is all the rage, but I still need a way to organized my random and messy thoughts.  
+I know 140-character tweeting is all the rage, but I still think a way to organize my random and messy thoughts is needed. 
 
 ##### But why? Here's the reason.
 
