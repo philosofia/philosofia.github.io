@@ -17,9 +17,9 @@ I know 140-character tweeting is all the rage, but I still think a way to integr
 
 * Currently study BA Digital Culture at King's College London.
 * Interested in intersection of Social Science, Humanities and Data Science.
-* More specifically in data capitalism, web tracking technology (industry) and network analysis.
+* More specifically in data capitalism, web tracking technology, misinformation （infodemic）, cybersecurity and network visualization analysis.
 * ADD Brainer.
-* Non-linearity reader. Don't ever try to ask me how many books I've read.
+* Non-linear reader. Don't ever try to ask me how many books I've read.
 * More a social media observer than user. 
 * Multilingual, yet sometimes encountering language switch failures.
 * Co-existence with simplicity and complexity.
@@ -27,7 +27,7 @@ I know 140-character tweeting is all the rage, but I still think a way to integr
 * Cook the most delicious braised pork belly in this world. (Actually it is debatable, but whatever)
 * Big fan of Yakinuku and Takoyaki. 
 * Firm believer in Fluid Identity.
-* Know more about sociological theory than the actual knowledge of being social. 
+* Know more about sociological theory than actual practice of being social. 
 * Formless, Shapeless, Rootless.
 * Beginner mindset.
 * Spent more time reading histories about programming language and computer science than I have actually coded (in python primarily).
